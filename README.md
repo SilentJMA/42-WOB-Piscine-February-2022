@@ -65,11 +65,11 @@ The table below presents the C Piscine's curriculum in chronological order in wh
 |05	|[C 00](./c00)			|C			|about 1 day	|100 XP		|85% :heavy_check_mark:	|
 |06	|Exam 01							|C			|about 4 hours	|225 XP		|32% :heavy_check_mark:		|
 |07	|[C 01](./c01)			|C			|about 1 day	|100 XP		|100% :heavy_check_mark:	|
-|08	|[Rush 01](./rush01)		|C			|2 days			|150 XP		|0% :x:						|
+|08	|[Rush 01]		|C			|2 days			|150 XP		|0% :x:						|
 |09	|[C 02](./c02)			|C			|about 1 day	|100 XP		|85% :heavy_check_mark:		|
 |10	|[C 03](./c03)			|C			|about 1 day	|100 XP		|100% :heavy_check_mark:	|
 |11	|Exam 02							|C			|about 4 hours	|225 XP		|0% :heavy_check_mark:		|
-|12	|[Rush 02](./rush02)		|C			|2 days			|150 XP		|0% :x:						|
+|12	|[Rush 02]		|C			|2 days			|150 XP		|0% :x:						|
 |13	|[C 04](./c04)			|C			|about 1 day	|100 XP		|100% :heavy_check_mark:	|
 |14	|[C 05](./c05)			|C			|about 1 day	|100 XP		|100% :heavy_check_mark:	|
 |15	|[C 06](./c06)			|C			|about 1 day	|100 XP		|100% :heavy_check_mark:		|
