@@ -1,12 +1,15 @@
 # 42 WOB Piscine - February 2022
 <h2 align="center">Yo! I'm Mohamed Ayoub AKA MJabane</h2> 
-<br>
-# Code
 <p align="center">
-  <img align='center' src="https://img.shields.io/github/languages/top/SilentJMA/42-WOB-Piscine-February-2022?color=ff6804" height="20"/>
-  <img align='center' src="https://img.shields.io/github/downloads/SilentJMA/42-WOB-Piscine-February-2022/total" height="20"/>
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/SilentJMA/42-WOB-Piscine-February-2022?color=blueviolet" />
+	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/SilentJMA/42-WOB-Piscine-February-2022?color=blueviolet" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/SilentJMA/42-WOB-Piscine-February-2022?color=blue" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/SilentJMA/42-WOB-Piscine-February-2022?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/SilentJMA/42-WOB-Piscine-February-2022?color=brightgreen" />
+	<br>
+	<img align='center' src="https://badge42.herokuapp.com/api/stats/mjabane?darkmode=true&cursus=42cursus" height="150"/>
 </p>
-<br>
+
 # About 42
 
 	42 is a global education initiative that proposes a new way of learning technology: no teachers,
@@ -16,11 +19,7 @@
 	is the last stage in the selection process for becoming a "cadet" (42's student).
   
 <br>
-<h2 align="center">Stats regarding the piscine: 📝</h2>  
-<br>
-<p align="center">
-  <img align='center' src="https://badge42.herokuapp.com/api/stats/mjabane?darkmode=true&cursus=42cursus" height="150"/>
-</p>
+<h2 align="center">Stats regarding the piscine: 📝</h2> 
 
 ## Skills developed at C Piscine
 
