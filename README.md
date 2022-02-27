@@ -1,5 +1,5 @@
 # 42 WOB Piscine - February 2022
-<h2 align="center">Yo! I'm Mohamed Ayoub AKA MJabane</h2> 
+<h2 align="center">Yo! I'm Mohamed Ayoub AKA MJabane 🐋 </h2> 
 <p align="center">
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/SilentJMA/42-WOB-Piscine-February-2022?color=blueviolet" />
 	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/SilentJMA/42-WOB-Piscine-February-2022?color=blueviolet" />
@@ -18,9 +18,6 @@
 	approved in its selection process. The so-called "C Piscine", a 26-day C programming bootcamp,
 	is the last stage in the selection process for becoming a "cadet" (42's student).
   
-<br>
-<h2 align="center">Stats regarding the piscine: 📝</h2> 
-
 ## Skills developed at C Piscine
 
 ### Hard-skills
