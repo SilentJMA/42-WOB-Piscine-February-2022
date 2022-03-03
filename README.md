@@ -1,3 +1,4 @@
+<a href="https://42wolfsburg.de/"><img alt="42Wolfsburg" align="center" src="https://github.com/SilentJMA/SilentJMA/blob/main/42Wolfsburg.jpeg" /></a>
 # 42 WOB Piscine - February 2022
 <h2 align="center">Yo! I'm Mohamed Ayoub AKA MJabane 🐋 </h2> 
 <p align="center">
@@ -17,6 +18,7 @@
 	methodology that develops both computing and life skills. The 42 cursus is free for whoever is
 	approved in its selection process. The so-called "C Piscine", a 26-day C programming bootcamp,
 	is the last stage in the selection process for becoming a "cadet" (42's student).
+#### More about School 42 you can find here: https://en.wikipedia.org/wiki/42_(school)
   
 ## Skills developed at C Piscine
 
