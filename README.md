@@ -1,5 +1,7 @@
-<a href="https://42wolfsburg.de/"><img alt="42Wolfsburg" align="center" src="https://github.com/SilentJMA/SilentJMA/blob/main/42Wolfsburg.jpeg" /></a>
-# 42 WOB Piscine - February 2022
+<p align="center">
+<a href="https://42wolfsburg.de/" target="_blank" rel="noopener noreferrer"><img alt="42Wolfsburg" align="center" src="https://raw.githubusercontent.com/SilentJMA/42-WOB-Piscine-February-2022/main/42Wolfsburg.jpeg" width="100" height="100" /></a>
+</p>
+<h1 align="center">42 WOB Piscine - February 2022</h1> 
 <h2 align="center">Yo! I'm Mohamed Ayoub AKA MJabane 🐋 </h2> 
 <p align="center">
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/SilentJMA/42-WOB-Piscine-February-2022?color=blueviolet" />
